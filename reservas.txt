@@ -1,0 +1,5 @@
+Cliente: Juan
+Cedula: 100
+Pelicula: Avatar
+Costo: 3.00
+
